@@ -1,0 +1,28 @@
+name: Teaser
+favicon: null
+layout_spectrum: 0.5383162104990333
+typography_spectrum: 0.030207413248717785
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6026072702370584
+  lightness: 0.8880632200744003
+  saturation: 0.9150524551514536
+  rhythmicContrast: 0.39861730649136007
+purpose: []
